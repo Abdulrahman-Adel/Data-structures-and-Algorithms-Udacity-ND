@@ -32,6 +32,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +88,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 <!---LeetCode Topics End-->
