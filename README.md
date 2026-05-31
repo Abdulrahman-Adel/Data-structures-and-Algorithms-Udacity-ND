@@ -12,6 +12,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -103,6 +104,11 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0735-asteroid-collision/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0394-decode-string](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0394-decode-string/) | Medium |
 <!---LeetCode Topics End-->
