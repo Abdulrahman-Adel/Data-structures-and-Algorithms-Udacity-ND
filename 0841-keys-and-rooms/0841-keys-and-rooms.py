@@ -5,15 +5,24 @@ class Solution:
         # so you don't have to go one by one
 
 
-        visited = [0]
+        # visited = [0]
 
-        def traverseNode(node):
-            for item in node:
-                if item not in visited:
-                    visited.append(item)
-                    traverseNode(rooms[item])
+        # def traverseNode(node):
+        #     for item in node:
+        #         if item not in visited:
+        #             visited.append(item)
+        #             traverseNode(rooms[item])
             
-            return
+        #     return
         
-        traverseNode(rooms[0])
-        return len(visited)==len(rooms)
+        # traverseNode(rooms[0])
+        # return len(visited)==len(rooms)
+
+        visited = set()
+        def dfs(room):
+            visited.add(room)
+            for key in rooms[room]:
+                if key not in visited:
+                    dfs(key)
+        dfs(0)
+        return len(visited) == len(rooms)
