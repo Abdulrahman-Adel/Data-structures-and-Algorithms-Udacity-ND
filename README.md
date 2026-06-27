@@ -163,6 +163,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,6 +172,7 @@
 | [0841-keys-and-rooms](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +195,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0841-keys-and-rooms/) | Medium |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 <!---LeetCode Topics End-->
