@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0011-container-with-most-water/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -83,6 +84,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Sliding Window
@@ -215,4 +217,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0399-evaluate-division/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
