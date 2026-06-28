@@ -6,13 +6,30 @@ class Solution:
         # find the kth element just convert array into heap O(n) operation and loop into k and pop to get the kth
         # since it's min heap we need to conver it into max heap first (python doesn't support max heap)
         # so the easiest solution is just to convert all number in the array first by -1 so then it's automatically max
-        import heapq
-        nums = [n*-1 for n in nums] # to make is max heap
-        heapq.heapify(nums)
+        # import heapq
+        # nums = [n*-1 for n in nums] # to make is max heap
+        # heapq.heapify(nums)
 
-        for i in range(k):
-            element = heapq.heappop(nums)
-            if i==k-1:
-                return element * -1 # revert back
+        # for i in range(k):
+        #     element = heapq.heappop(nums)
+        #     if i==k-1:
+        #         return element * -1 # revert back
+
+
+        # what you can also do it simply just keep pushing into a heap
+        # once you get more than k eleement pop the smallest 
+        # keep pushing the get the final
+
+
+        heap = []
+
+        for n in nums:
+
+            heapq.heappush(heap,n)
+
+            if len(heap)>k:
+                heapq.heappop(heap)
+        
+        return heap[0]
 
 
