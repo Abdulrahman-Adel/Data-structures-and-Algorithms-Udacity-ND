@@ -98,6 +98,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -236,4 +237,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Abdulrahman-Adel/Data-structures-and-Algorithms-Udacity-ND/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
